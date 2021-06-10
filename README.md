@@ -21,9 +21,12 @@ Attention-Based Spatial Interpolation for House Price Prediction
 ## Installation
 To install as a module:
 ```
+$ conda create -n asi python=3.8.10
+$ conda activate asi
 $ git clone https://github.com/darniton/ASI
 $ cd ASI
 $ pip install -r requirements.txt
+$ jupyter notebook
 ```
 
 ## Replicating experiments
