@@ -1,6 +1,11 @@
 # ASI
 Attention-Based Spatial Interpolation for House Price Prediction
 
+### Requirements
+
+* python 3.8.10
+* tensorflow (>=2.5.0)
+
 ## Data
 
 * Data: a numpy saved file (.npz) containing:
@@ -24,5 +29,5 @@ $ pip install -r requirements.txt
 ## Replicating experiments
 To replicate the experimental results:
 
-* ./notebook: One notebook for each dataset
+* ./notebooks: One notebook for each dataset
     
